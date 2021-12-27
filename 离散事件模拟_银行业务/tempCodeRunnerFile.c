@@ -1,0 +1,1 @@
+void CustomerArrived(struct Event** head,struct Event* en,struct Queue q[])      //处理顾客到达，前提为en->NType==0
